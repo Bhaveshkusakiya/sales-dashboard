@@ -1,0 +1,11 @@
+OrderID,Date,Region,Product,Category,Quantity,UnitPrice,Revenue,Cost,Salesperson,Profit,Profit Margin (%)
+ 1001 ,2025-01-01, North , Laptop , Electronics ,3,60000,180000,150000, Riya ,30000,16.666666666666664
+ 1002 ,2025-01-03, South , Phone , Electronics ,5,25000,125000,100000, Arjun ,25000,20.0
+ 1003 ,2025-01-04, East , Chair , Furniture ,10,2000,20000,15000, Neha ,5000,25.0
+ 1004 ,2025-01-05, West , Laptop , Electronics ,2,62000,124000,100000, Raj ,24000,19.35483870967742
+ 1005 ,2025-01-07, North , Table , Furniture ,4,5000,20000,14000, Riya ,6000,30.0
+ 1006 ,2025-01-08, East , Phone , Electronics ,8,27000,216000,190000, Neha ,26000,12.037037037037036
+ 1007 ,2025-01-09, West , Chair , Furniture ,6,2500,15000,10000, Raj ,5000,33.33333333333333
+ 1008 ,2025-01-11, South , Laptop , Electronics ,1,58000,58000,45000, Arjun ,13000,22.413793103448278
+ 1009 ,2025-01-13, North , Phone , Electronics ,3,24000,72000,60000, Riya ,12000,16.666666666666664
+ 1010 ,2025-01-15, East , Table , Furniture ,2,5500,11000,8000, Neha ,3000,27.27272727272727
